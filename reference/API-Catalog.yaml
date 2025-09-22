@@ -280,7 +280,7 @@ paths:
         content:
           application/json:
             schema:
-              $ref: 'stoplight://resources/overrides/LgUkRJ1JO2Q'
+              $ref: 'https://integration.stoplight-dev.com/api/v1/projects/neelam/api-model-111/nodes/schemas/FutureGoal.yaml?deref=bundle'
     parameters:
       - $ref: '#/components/parameters/key'
       - schema:
@@ -348,7 +348,7 @@ paths:
         content:
           application/json:
             schema:
-              $ref: 'stoplight://resources/overrides/o9pMJi8rDVo'
+              $ref: 'https://integration.stoplight-dev.com/api/v1/projects/neelam/api-model-111/nodes/schemas/KPI.yaml?deref=bundle'
     parameters:
       - name: key
         in: path
