@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: dfsdfds
   version: '1.0'
+  description: mbhg
 servers:
   - url: 'http://localhost:3000'
 paths:
