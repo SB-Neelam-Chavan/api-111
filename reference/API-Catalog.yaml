@@ -4,7 +4,7 @@ x-stoplight:
 info:
   title: API Catalog
   version: '1.0'
-  description: "This is one of four SEAPIM platform APIs, built on a shared API catalog model which is maintained in a component library.\r\n\r\nSEAPIM is the Schneider Electric API management platform which hosts and secures access to APIs.\r\n\r\nThis API provides operations to view and manage the content of the catalog which is compromised of these primary resources, organised as a hierarchy (API > Proxy > Version)\r\n\r\nAPI - Represents a business user's concept of an API which is version-independent\r\nProxy - Component that runs on the SEAPIM API platform, managing API traffic\r\nVersion - Represents an API document for a specific API version, used for reference by application developers\r\n\r\nThe API is scope-enabled, press Authorize to see the defined scopes. Default scoping provides read-only access."
+  description: "cgThis is one of four SEAPIM platform APIs, built on a shared API catalog model which is maintained in a component library.\r\n\r\nSEAPIM is the Schneider Electric API management platform which hosts and secures access to APIs.\r\n\r\nThis API provides operations to view and manage the content of the catalog which is compromised of these primary resources, organised as a hierarchy (API > Proxy > Version)\r\n\r\nAPI - Represents a business user's concept of an API which is version-independent\r\nProxy - Component that runs on the SEAPIM API platform, managing API traffic\r\nVersion - Represents an API document for a specific API version, used for reference by application developers\r\n\r\nThe API is scope-enabled, press Authorize to see the defined scopes. Default scoping provides read-only access."
   contact:
     name: Ravi Joshi
     email: ravi.joshi@se.com
